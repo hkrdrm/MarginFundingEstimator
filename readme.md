@@ -1,2 +1,3 @@
-Usage:
-  ruby MarginFundingEstimator.rb starting_balance years monthly_investment
+##Usage:
+
+    ruby MarginFundingEstimator.rb starting_balance years monthly_investment
